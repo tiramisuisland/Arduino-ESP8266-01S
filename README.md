@@ -8,4 +8,11 @@ https://shopee.tw/%E3%80%90%E6%A8%82%E6%84%8F%E5%89%B5%E5%AE%A2%E5%AE%98%E6%96%B
 
 驅動軟體
 ## 解壓縮CP210x_Windows_Drivers，並安裝CP210xVCPInstaller_x64.exe
-![image](https://github.com/tiramisuisland/Arduino-ESP8266-01S/assets/146859919/d75d9f15-6e40-4d73-8966-11142daac7c4)
+## 選擇喜好設定
+![image](https://github.com/tiramisuisland/Arduino-ESP8266-01S/assets/146859919/c9ac501c-4e20-4a7b-b66a-7d314618f108)
+
+## 將網址貼上
+### http://arduino.esp8266.com/stable/package_esp8266com_index.json
+## ![image](https://github.com/tiramisuisland/Arduino-ESP8266-01S/assets/146859919/7ee8acd2-a589-4da3-955d-fae43717ae67)
+## ![image](https://github.com/tiramisuisland/Arduino-ESP8266-01S/assets/146859919/fdae71bd-36de-4988-a0cc-da9fb55ea007)
+## ![image](https://github.com/tiramisuisland/Arduino-ESP8266-01S/assets/146859919/d75d9f15-6e40-4d73-8966-11142daac7c4)
