@@ -7,5 +7,5 @@ https://shopee.tw/%E3%80%90%E6%A8%82%E6%84%8F%E5%89%B5%E5%AE%A2%E5%AE%98%E6%96%B
 https://shopee.tw/%E3%80%90%E6%A8%82%E6%84%8F%E5%89%B5%E5%AE%A2%E5%AE%98%E6%96%B9%E5%BA%97%E3%80%91%E3%80%8A%E9%99%84%E7%99%BC%E7%A5%A8%E3%80%8BAi-Thinker-%E5%8E%9F%E5%BB%A0-ESP8266-ESP-01S-WIFI-%E6%94%B6%E7%99%BC%E7%84%A1%E7%B7%9A%E6%A8%A1%E7%B5%84-%E5%8E%9F%E5%BB%A0%E8%B2%A8-i.139069730.2100317523?sp_atk=d3a3aed7-8357-41f3-9a58-c6575757cdb2&xptdk=d3a3aed7-8357-41f3-9a58-c6575757cdb2
 
 驅動軟體
-## 解壓縮CP210x_Windows_Drivers;並安裝CP210xVCPInstaller_x64.exe
+## 解壓縮CP210x_Windows_Drivers，並安裝CP210xVCPInstaller_x64.exe
 ![image](https://github.com/tiramisuisland/Arduino-ESP8266-01S/assets/146859919/d75d9f15-6e40-4d73-8966-11142daac7c4)
